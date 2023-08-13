@@ -1,0 +1,21 @@
+gitbush configration 
+--------------------
+git config --global user.name "name"
+git congig ---global user.email kutidhi.kuteno@gmail.com
+git config --globa core.editor "code ---wait"
+git config --globa -e
+
+git init
+ls -a : show hidden files in git
+git status :On branch master
+git add : staged branch
+git rm --cached : unstaged
+git add . : all in going in stataged
+git commit -m "commit branch"
+git log : in hash number
+git diff : diffrensation
+git add -A : all added
+git remote add origin  : connect gut and githup
+git push -u origin  master : upload in files
+git fetch  : your see in changed the file
+git pull : download in file 

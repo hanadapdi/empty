@@ -3,3 +3,5 @@ const data = {
     age : 21,
     address : [{city : 'San' } , {phone : 123}]
 }
+
+console.log(data);
